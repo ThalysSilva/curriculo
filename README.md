@@ -97,13 +97,11 @@ Desenvolvedor Full Stack com +7 anos de experiência em desenvolvimento web e mo
 - **Aftersale (Confi):** [Website](https://confi.com.vc/aftersale)
 
 ### Aplicações Open Source e Templates
-- **EmprestAí:** Website | Frontend | Backend  
-  [Acessar Projeto](https://emprest-ai-frontend.vercel.app/)
-- **Componentes de Formulário (React Inputs):** Website | GitHub  
-  [Acessar Projeto](https://inputs-react.vercel.app/)
+- **EmprestAí:** [Website](https://emprest-ai-frontend.vercel.app/) | [Frontend](https://github.com/ThalysSilva/emprestAi-frontend) | [Backend](https://github.com/ThalysSilva/emprestAi-backend) 
+- **Componentes de Formulário (React Inputs):** [Website](https://inputs-react.vercel.app/) | [GitHub](https://github.com/ThalysSilva/inputs-react)
 - **Templates:**  
-  - [Next.js Template](https://github.com/ThalysSilva/next-template)  
-  - [Nest.js Template](https://github.com/ThalysSilva/nest-template)
+  - [Next.js](https://github.com/ThalysSilva/next-template)  
+  - [Nest.js](https://github.com/ThalysSilva/nest-template)
 
 ---
 
