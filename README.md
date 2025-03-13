@@ -15,7 +15,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor Full Stack com +7 anos de experiência em desenvolvimento web e mobile, especializado em Next.js, React.js, React Native, Nest.js e Node.js. Priorizo a construção de arquiteturas modulares e escaláveis, garantindo alto desempenho e facilidade de manutenção. Tenho histórico de reduzir o tempo de carregamento de aplicações em até 60% e acelerar a entrega de novas funcionalidades em até 40%. Além disso, possuo experiência em liderança técnica, treinamentos internos e implementação de boas práticas de desenvolvimento.
+Desenvolvedor Full Stack com +10 anos de experiência em desenvolvimento web e mobile, especializado em Next.js, React.js, React Native, Nest.js e Node.js. Priorizo a construção de arquiteturas modulares e escaláveis, garantindo alto desempenho e facilidade de manutenção. Tenho histórico de reduzir o tempo de carregamento de aplicações em até 60% e acelerar a entrega de novas funcionalidades em até 40%. Além disso, possuo experiência em liderança técnica, treinamentos internos e implementação de boas práticas de desenvolvimento.
 
 ---
 
