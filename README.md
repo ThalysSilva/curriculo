@@ -15,7 +15,7 @@
 
 ## Sobre Mim
 
-Desenvolvedor Full Stack com +10 anos de experiência em desenvolvimento web e mobile, especializado em Next.js, React.js, React Native, Nest.js e Node.js. Priorizo a construção de arquiteturas modulares e escaláveis, garantindo alto desempenho e facilidade de manutenção. Tenho histórico de reduzir o tempo de carregamento de aplicações em até 60% e acelerar a entrega de novas funcionalidades em até 40%. Além disso, possuo experiência em liderança técnica, treinamentos internos e implementação de boas práticas de desenvolvimento.
+Desenvolvedor Full Stack com +10 anos de experiência, especializado em Next.js, React.js, React Native, Nest.js, Node.js, Golang e Gin. Priorizo a construção de arquiteturas modulares e escaláveis, garantindo alto desempenho e facilidade de manutenção. Foco em performance, reduzi tempo de carregamento de aplicações em até 60% e otimizei processos de desenvolvimento, criando abstrações e componentes reutilizáveis, acelerando a entrega de novas funcionalidades em até 40%. Experiência em liderança técnica, treinamentos internos e implementação de boas práticas para melhorar a produtividade e qualidade do código.
 
 ---
 
@@ -32,27 +32,27 @@ Desenvolvedor Full Stack com +10 anos de experiência em desenvolvimento web e m
 
 ### Lighthouse (Software House) – Desenvolvedor Full Stack  
 *08/2022 – 08/2024*
-- **Zema Seguros:** Atuação como líder técnico definindo a stack tecnológica (Fastify, Prisma, Keycloak, Next.js, Tanstack Query, Chakra UI). Desenvolvimento do frontend com foco em responsividade, acessibilidade e performance. Coordenação da implementação de autenticação segura e gerenciamento de usuários.
-- **Melissa:** Implementação de métricas via Google Analytics e suporte no BFF utilizando OCC.
-- **Esplanada Móveis:** Automação da publicação do catálogo do OCC, gerando +150 mil cliques/mês no Google Shopping.
-- **Grazziotin:** Suporte a sistema com 90 mil usuários ativos mensais.
-- **Mills:** Desenvolvimento de sistema interno para logística, melhorando a eficiência operacional.
-- **Bizuu:** Implementação de novas funcionalidades e manutenção de aplicativo mobile com 30 mil usuários ativos.
-- **Summit:** Desenvolvimento de portal de administração e aplicativo para representantes.
-- **InCredBull:** Criação do frontend para uma plataforma gamificada baseada em blockchain.
+- **Zema Seguros:** Atuei como líder técnico, definindo toda a arquitetura e tecnologia do projeto. Desenvolvi grande parte do frontend, garantindo responsividade, acessibilidade e performance. Coordenei a implementação de autenticação com Auth.js e gerenciamento de usuários. Tecnologias utilizadas: Fastify, Prisma, Keycloak, Next.js, Tanstack Query, ChakraUI
+- **Melissa:** : Implementei métricas via Google Analytics e suporte no BFF utilizando OCC. Tecnologias: React Native e node.
+- **Esplanada Móveis:** : Automatizei a publicação do catálogo do OCC, utilizando Go, assim gerando +150 mil cliques/mês no Google Shopping. Tecnologias: Golang, Gin, Google Merchant Center
+- **Grazziotin:** Suporte a sistema com 90 mil usuários mensais. Tecnologias: RabbitMQ, Open telemetry, Knex, Prometheus, PM2, Nest, Next e React Native.
+- **Mills:** Desenvolvi um portal interno para agilizar e simplificar os procedimentos de logística. Tecnologias: Go, Gin, Next, MongoDB, Redis e Sentry.
+- **Bizuu:** Implementei funcionalidades e dei manutenção no aplicativo mobile com 30 mil usuários ativos. Tecnologias: React Native e React.
+- **Summit:** Desenvolvi o portal de administração e aplicativo para representantes. Tecnologias: Next, React Native
+- **InCredBull:** Desenvolvi uma plataforma gamificada baseada em blockchain. Tecnologias: Next.
 
 ### Health Protection (Sleepie) – Freelancer & Consultor Next.js  
 *7 meses*  
-- Desenvolvimento do fluxo de compra, integração com Stripe e refatoramento da arquitetura do projeto.
+- Desenvolvi fluxo de compra, integração com Stripe e refatoramento da arquitetura do projeto.
+Tecnologias: Next, Stripe e SCRUM.
 
 ### Allintra – Desenvolvedor React e React Native  
 *02/2022 – 09/2022*  
-- Desenvolvimento do frontend de um sistema voltado para o nicho de criptoativos utilizando Next.js, Tanstack Query, Jest e SCRUM.
+- Desenvolvimento do frontend e backend de um sistema voltado para o nicho de criptoativos. Tecnologias: Next.js, Kafka, Open Telemetry, Jaeger, Tanstack Query, Jest e SCRUM.
 
 ### Aftersale (Confi) – Desenvolvedor Full-Stack  
 *08/2021 – 02/2022*  
-- Evolução de soluções que impactaram +50 mil usuários/mês utilizando Next.js e Nest.js.
-- Melhoria da manutenção do código com testes unitários e code review estruturado.
+- Atuei na evolução de soluções que impactaram +50 mil usuários/mês. Tecnologias: Next, React, Nest, RabbitMQ e SCRUM.
 
 ---
 
@@ -62,16 +62,16 @@ Desenvolvedor Full Stack com +10 anos de experiência em desenvolvimento web e m
 - Javascript, Typescript, Python, PHP, C, Java e GO
 
 ### Front-end
-- Next.js, React.js, React Native, TypeScript, Tailwind, Tanstack Query (React Query), React Hook Form, Next-auth, SEO, SSR, SSG, CSR, SPA, React Testing Library, Storybook, Jest, Cypress, Selenium, Redux, Zustand, Context API, React Hooks, Styled Components, LESS, SCSS, Material UI, Chakra UI, Prime React, ShadCN UI, CSS, HTML, Module Federation e Webpack.
+- Next.js, React.js, React Native, TypeScript, Tailwind, Tanstack query (React query), React hook form, Auth.Js (NextAuth), SEO, SSR, SSG, CSR, SPA, React testing library, Storybook, Jest, Cypress, Selenium, Redux, Zustand, Context API, React Hooks, Styled components, LESS, SCSS, Material Ui, Chakra Ui, Prime React, ShadCN UI, Ant design, Mantine UI, CSS, HTML, Module federation e webpack.
 
 ### Back-end
-- Node.js, Nest.js, Fastify, Express, Prisma, Jest, MongoDB, SQL, PL/SQL, Postgres, SQL Server, OCC, Keycloak, REST, RESTful, GraphQL, JWT, Microserviços / Microservices, WebSockets.
+- Go (Golang), Gin, Node.js, Nest.js, Fastify, Express, Axios, Prisma, Knex, RabbitMQ, Redis, Apache Kafka, MongoDB, SQL, PL/SQL, Postgres, SQL Server, OCC, Keycloak, REST, RESTful, GraphQL, Jest, JWT, Microserviços (microservices), WebSockets, Open telemetry, Sentry, Jaeger e Prometheus.
 
 ### Infra e DevOps
-- Git, Docker, Docker Compose, CI/CD, Serverless, Kubernetes, AWS, Nginx, Proxy Reverso, VPS e Cloud.
+- Git, GitHub, Gitlab, Bitbucket, Docker, Docker compose, CI/CD, Serverless, Kubernetes, AWS, Nginx, proxy reverso, PM2, VPS e Cloud.
 
 ### Metodologias
-- Clean Architecture, TDD, DDD, SOLID, SCRUM e Git Flow.
+- Clean Architecture, Arquitetura voltado a eventos, TDD, DDD, SOLID, SCRUM (desenvolvimento ágil), Git flow, testes automatizados, Monitoramento, tracing e 
 
 ---
 
