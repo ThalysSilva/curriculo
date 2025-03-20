@@ -62,13 +62,13 @@ Tecnologias: Next, Stripe e SCRUM.
 - Javascript, Typescript, Python, PHP, C, Java e GO
 
 ### Front-end
-- Next.js, React.js, React Native, TypeScript, Tailwind, Tanstack query (React query), React hook form, Auth.Js (NextAuth), SEO, SSR, SSG, CSR, SPA, React testing library, Storybook, Jest, Cypress, Selenium, Redux, Zustand, Context API, React Hooks, Styled components, LESS, SCSS, Material Ui, Chakra Ui, Prime React, ShadCN UI, Ant design, Mantine UI, CSS, HTML, Module federation e webpack.
+- Next.js, React.js, React Native, TypeScript, Tailwind, Tanstack query (React query), React hook form, Auth.Js (NextAuth), SEO, SSR, SSG, CSR, SPA, React testing library, Storybook, tRPC, Jest, Cypress, Selenium, Redux, Zustand, Context API, React Hooks, Styled components, LESS, SCSS, Material Ui, Chakra Ui, Prime React, ShadCN UI, Ant design, Mantine UI, CSS, HTML, Module federation e webpack.
 
 ### Back-end
-- Go (Golang), Gin, Node.js, Nest.js, Fastify, Express, Axios, Prisma, Knex, RabbitMQ, Redis, Apache Kafka, MongoDB, SQL, PL/SQL, Postgres, SQL Server, OCC, Keycloak, REST, RESTful, GraphQL, Jest, JWT, Microserviços (microservices), WebSockets, Open telemetry, Sentry, Jaeger e Prometheus.
+- Go (Golang), Gin, Node.js, Nest.js, Fastify, Express, Axios, Prisma, Knex, RabbitMQ, Redis, Apache Kafka, MongoDB, SQL, PL/SQL, Postgres, SQL Server, OCC, Keycloak, REST, RESTful, GraphQL, gRPC, Jest, JWT, Microserviços (microservices), WebSockets, Goroutines, Canais (channels), Open telemetry, Sentry, Jaeger e Prometheus.
 
 ### Infra e DevOps
-- Git, GitHub, Gitlab, Bitbucket, Docker, Docker compose, CI/CD, Serverless, Kubernetes, AWS, Nginx, proxy reverso, PM2, VPS e Cloud.
+- Git, GitHub, Gitlab, Bitbucket, Docker, Docker compose, CI/CD, Serverless, Kubernetes, AWS, Nginx, Api Gateway, proxy reverso, PM2, VPS e Cloud.
 
 ### Metodologias
 - Clean Architecture, Arquitetura voltado a eventos, TDD, DDD, SOLID, SCRUM (desenvolvimento ágil), Git flow, testes automatizados, Monitoramento, tracing e 
